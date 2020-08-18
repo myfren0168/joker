@@ -2,7 +2,7 @@
 ###Ini Copyright###
 ###https://github.com/osyduck/Gojek-Register###
 //Added triple functions claim
-//Recoded by ahsan.id
+//Recoded by Donz
 include ("function.php");
 function nama()
 	{
